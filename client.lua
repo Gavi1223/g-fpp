@@ -16,9 +16,7 @@ Citizen.CreateThread(function()
             elseif ((pedvehclass == 8) and (pedvehclass == 13)) then
             end
         end
-
     end
-
 end)
 
 
