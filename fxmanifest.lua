@@ -3,6 +3,4 @@ fx_version 'adamant'
 games { 'gta5' }
 
 
-client_scripts {
-	'client/cl_xhair.lua',
-}
+client_script 'client.lua'
